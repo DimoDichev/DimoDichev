@@ -1,6 +1,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DimoDichev.DimoDichev" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Dimo+Dichev)" />
+
 ### Hi there, I am Dimo Dichev 👋
 
 <!--
