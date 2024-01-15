@@ -2,11 +2,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DimoDichev.DimoDichev" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Bilbo&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there%2C+I+am+Dimo+Dichev+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bilbo&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I+am+Dimo+Dichev" />
 </h1>
-
-### Hi there, I am Dimo Dichev 👋
 
 <!--
 **DimoDichev/DimoDichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
