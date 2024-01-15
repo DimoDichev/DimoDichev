@@ -6,24 +6,19 @@
 </h1>
 
 <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
-<br/>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" />
   </a>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DimoDichev/DimoDichev/output/github-contribution-grid-snake.svg" />
+<hr/>
 
-  <br/><br/><br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDichev&layout=compact&theme=react&border_radius=10" />
 </div>
-
-
-
-
 
 <div align="center">
   <h3>Feel free to contact with me</h3>
@@ -39,17 +34,8 @@
   </a>
 </div>
 
-<!--
-**DimoDichev/DimoDichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bilbo&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+for+visiting+✌" />
+</h1>
